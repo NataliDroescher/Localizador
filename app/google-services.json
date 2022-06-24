@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861159360129",
+    "firebase_url": "https://localizador-6f3cc-default-rtdb.firebaseio.com",
+    "project_id": "localizador-6f3cc",
+    "storage_bucket": "localizador-6f3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861159360129:android:9c8aaa04cee4d913e12f80",
+        "android_client_info": {
+          "package_name": "com.example.localizador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861159360129-0r4qkgbhkpqj7c043a7tfbgjp2klt8dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEezGQDQC8wIUxc2HGr6N-niF3kIxVAZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861159360129-0r4qkgbhkpqj7c043a7tfbgjp2klt8dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
